@@ -1,0 +1,16 @@
+{
+    "name": "DebugLogger",
+    "version": "0.1.0",
+    "description": "A lightweight logging library for Arduino and PlatformIO projects.",
+    "keywords": ["logging", "debug", "arduino", "logger"],
+    "authors": [
+        {
+            "name": "Johannes Sood",
+            "email": "johannes@somestrangeday.dev",
+            "maintainer": true
+        }
+    ],
+    "license": "GPL-3.0",
+    "frameworks": ["arduino"],
+    "platforms": ["*"]
+}
